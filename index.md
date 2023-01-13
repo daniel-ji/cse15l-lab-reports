@@ -5,9 +5,9 @@
 
 [wow](https://daniel-ji.github.io/cse15l-lab-reports/wow.html)
 
-![Image](https://raw.githubusercontent.com/daniel-ji/cse15l-lab-reports/main/IMG_9522.jpeg)
+> Note: no one was actually hurt in the following image, everybody is cool beans
 
-> wow
+![Image](https://raw.githubusercontent.com/daniel-ji/cse15l-lab-reports/main/IMG_9522.jpeg)
 
 * this
 * is
