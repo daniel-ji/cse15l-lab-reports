@@ -1,4 +1,24 @@
 # CSE 15L, Lab 1
+
+# [Lab 1 Report ](https://daniel-ji.github.io/cse15l-lab-reports/lab1report.html)
+Found at: https://daniel-ji.github.io/cse15l-lab-reports/lab1report.html
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+# As Part of Lab 1, Part 7, Editing Markdown: 
 ## Thu Jan 12 2023
 
 ***rip jason in 3 seconds***
