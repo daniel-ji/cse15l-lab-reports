@@ -3,13 +3,13 @@
 This tutorial will cover how to log into a course-specific account on ieng6. 
 
 ## Installing VSCode
-Visit [Visual Studio Code](https://code.visualstudio.com/) and install it on your computer. The site should look something like this: 
+Visit [Visual Studio Code](https://code.visualstudio.com/) and install it on your computer. You can either click on the Download button near the center of the website to install it for the operating system detected on your computer or press the download button in the top right to download a specific installer. The site should look something like this: 
 
-![Visual Studio Code Site](/vscodesite.png)
+![Visual Studio Code Site](./vscodesite.png)
 
-After downloading and opening VSCode, the application should look something like this: 
+After pressing download, go ahead and follow the installer steps (this varies based on OS). After you finish installing VSCode, go ahead and open it. The application should look something like this: 
 
-![Visual Studio Code](/vscode.png)
+![Visual Studio Code](./vscode.png)
 
 If the application opens and you see a similar screen, you are done installing VSCode. Congratulations! Feel free to explore VSCode and creating new files and folders or opening existing files and folders. If you want, you can create a folder for this CSE 15L class.
 
@@ -20,7 +20,7 @@ First, open a terminal on VSCode. On Mac, the shortcut is ``ctrl + ` ``.
 
 The terminal will appear on the bottom of the screen and look something like this: 
 
-![VSCode Terminal](/vscodeterminal.png)
+![VSCode Terminal](./vscodeterminal.png)
 
 To connect, run the following command in the terminal: 
 
@@ -55,11 +55,15 @@ Thu Jan 12, 2023  5:20pm - Prepping cs15lwi23
 
 Now that you have successfully connected to ieng6, it's time to run some commands. 
 
-Feel free to try any commands from what we learned this week. Some commands you can try are: `cd`, `ls`, `pwd`, `mkdir`, `touch`, `mv`, and `cp`. Try to run them with some flags as well. For example, you should see something similar to the following image after running `ls -la`: 
+Feel free to try any commands from what we learned this week. Some commands you can try are: `cd`, `ls`, `pwd`, `mkdir`, `touch`, `mv`, and `cp`. Try to run them with some flags as well. For example, you should see something similar to the following image after running `ls -la` : 
 
-![ls-la image](/lslaimage.png)
+![ls-la image](./lslaimage.png)
 
-To exit the remote server, you can enter the following shortuct in the terminal: `ctrl + d` or type `exit`. 
+The `-l` flag lists additional information beyond just the file and directory names, such as permissions, file owners, file size, last modified time, and more. The `-a` flag lists all files in in the specified directory, including hidden files and folders that begin with a `"."` . 
+
+To exit the remote server, you can enter the following shortcut in the terminal: `ctrl + d` or type `exit`. `ctrl + d` exits the terminal by sending a EOF (end-of-file) marker, effectively ending the bash session. The `exit` command is a built-in Linux command that exits the current shell. Both display the same message: `logout` and prints the message `Connection to ieng6.ucsd.edu closed.` . See image below for example:
+
+![exit terminal](./exitcommand.png)
 
 ## Conclusion
 
