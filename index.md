@@ -1,7 +1,10 @@
 # CSE 15L, Lab 1
 
-# [Lab 1 Report ](https://daniel-ji.github.io/cse15l-lab-reports/lab1report.html)
-Found at: https://daniel-ji.github.io/cse15l-lab-reports/lab1report.html
+# [Lab 1 Report ](https://daniel-ji.github.io/cse15l-lab-reports/lab1/lab1report.html)
+Found at: https://daniel-ji.github.io/cse15l-lab-reports/lab1/lab1report.html
+
+# [Lab 2 Report ](https://daniel-ji.github.io/cse15l-lab-reports/lab2/lab2report.html)
+Found at: https://daniel-ji.github.io/cse15l-lab-reports/lab2/lab2report.html
 
 &nbsp;
 
