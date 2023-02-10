@@ -46,6 +46,8 @@ class StringServer {
     }
 }
 ```
+Note: the following code snippet is not a screenshot, but instead Markdown with syntax highlighting. 
+
 ### StringServer Website Screenshot 1 
 ![String Server Screenshot - Daniel](./stringserver1.png)
 
@@ -119,6 +121,7 @@ public void testReverseInPlaceThree() {
     assertArrayEquals(new int[]{5, 4, 3}, input1); 
 }
 ```
+Note: the following code snippet is not a screenshot, but instead Markdown with syntax highlighting. 
 
 > An input that doesn’t induce a failure, as a JUnit test and any associated code
 
@@ -130,6 +133,7 @@ public void testReverseInPlaceOne() {
     assertArrayEquals(new int[]{1}, input1); 
 }
 ```
+Note: the following code snippet is not a screenshot, but instead Markdown with syntax highlighting. 
 
 > The symptom, as the output of running the tests
 
@@ -145,6 +149,7 @@ static void reverseInPlace(int[] arr) {
     }
 }
 ```
+Note: the following code snippet is not a screenshot, but instead Markdown with syntax highlighting. 
 
 After: 
 ```java
@@ -156,6 +161,13 @@ static void reverseInPlace(int[] arr) {
     }
 }
 ```
+Note: the following code snippet is not a screenshot, but instead Markdown with syntax highlighting. 
+
+The failure inducing inputs made me realize that the `reverseInPlace` method was not actually reversing the array in place. Instead, it was mirroring the array in place. 
+
+After taking a look at the method, I realized that the method would assign the first element to the last element, the second element to the second to last element, and so on. However, it would not assign the last element to the first element, the second to last element to the second element, and so on. So by half way through the array, the first half of the array would be a mirror of the second half of the array. As it finished the second half of the array iteration, it would not modify anything since the values of the mirrored elements were already the same.
+
+To fix this bug, I made the for loop only iterate through half of the array. With the help of a temporary variable, the first half of the array would be assigned to the second half of the array, and the second half of the array would be assigned to the first half of the array, with the entire "swap" of two elements in the array happening simultaneously. The loop only iterates half of the elements because if it were to continue, it would be swapping the elements back to their original positions.
 
 ## Part 3
 
