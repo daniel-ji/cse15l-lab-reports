@@ -6,6 +6,10 @@ Found at: https://daniel-ji.github.io/cse15l-lab-reports/lab1/lab1report.html
 # [Lab 2 Report ](https://daniel-ji.github.io/cse15l-lab-reports/lab2/lab2report.html)
 Found at: https://daniel-ji.github.io/cse15l-lab-reports/lab2/lab2report.html
 
+# [Lab 3 Report ](https://daniel-ji.github.io/cse15l-lab-reports/lab3/lab3report.html)
+Found at: https://daniel-ji.github.io/cse15l-lab-reports/lab3/lab3report.html
+
+
 &nbsp;
 
 &nbsp;
