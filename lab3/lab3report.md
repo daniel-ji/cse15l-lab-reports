@@ -6,8 +6,6 @@
 
 Note: Before running these commands, globstar was enabled, which is why the `**` is used in the commands. Globstar is a bash option that allows for recursive globbing. For example, `**/*.java` will match all files with the `.java` extension in the current directory and all subdirectories. It was enabled with the command `shopt -s globstar`.
 
-Note: I did not use ChatGPT for this assignment, but I did explore Github Copilot. It was helpful for auto-completing sections of text of this report, and I would definitely use it again.
-
 ***
 
 ### Command Line Option 1: `grep -c`
