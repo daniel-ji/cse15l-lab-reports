@@ -9,6 +9,9 @@ Found at: https://daniel-ji.github.io/cse15l-lab-reports/lab2/lab2report.html
 # [Lab 3 Report ](https://daniel-ji.github.io/cse15l-lab-reports/lab3/lab3report.html)
 Found at: https://daniel-ji.github.io/cse15l-lab-reports/lab3/lab3report.html
 
+# [Lab 4 Report ](https://daniel-ji.github.io/cse15l-lab-reports/lab4/lab4report.html)
+Found at: https://daniel-ji.github.io/cse15l-lab-reports/lab4/lab4report.html
+
 
 &nbsp;
 
